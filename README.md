@@ -1,2 +1,2 @@
 # WhatsUp_Development
-This repository for develop the application.
+This repository for developing the application.
